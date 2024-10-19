@@ -23,12 +23,12 @@ export const Contact = () => {
             alt="LinkedIn Icon"
           />
           <a href="https://www.linkedin.com/in/ebukaezekwesili/">
-            LinkedIn.com
+            LinkedIn
           </a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github Icon" />
-          <a href="https://github.com/chukwuebuka-ezekwesili">Github Profile</a>
+          <a href="https://github.com/chukwuebuka-ezekwesili">Github</a>
         </li>
       </ul>
     </footer>
