@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ebuka</h1>
         <p className={styles.description}>
-          With a solid background of over 2 years in core web technologies
+          With a solid foundation of over 4 years in core web technologies
           including React, Nodejs, Expressjs, website deployment and
           maintenance. My expertise encompasses react native, stripe
           integration, virtualization, terraform and automation. Additionally,
@@ -21,10 +21,10 @@ export const Hero = () => {
           designs and architecture, manual and automated software testing
           (Utilising Katalon Studio), project management, presentation and
           project documentation skills, technical writing skills and vast
-          knowledge of programming languages (JavaScript, JAVA, Python, etc)
-          with up-to-date expertise in frontend and backend frameworks
-          technologies (Spring boot, Expressjs, Nodejs, Lombok, React, React
-          Native, Flutter).
+          knowledge of programming languages (JavaScript, JAVA, Python) with
+          up-to-date expertise in frontend and backend frameworks technologies
+          (Spring boot, Expressjs, Nodejs, Lombok, React, React Native,
+          Flutter).
         </p>
         <a
           href="mailto:cebuka.blessing@gmail.com"

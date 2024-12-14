@@ -1,25 +1,56 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Forex Trading Bot and Strategy Testing System",
+    "imageSrc": "projects/Forex_Trading_Bot.png",
+    "description": "I developed a robust live 24/7 trading bot using Python. By leveraging multi-threading, events, and work queues, I was able to enable the bot to make real-time trading decisions. I also built a comprehensive strategy back-testing system capable of testing thousands of trades per second, ensuring accurate results by integrating spread and fine-grained price data. Additionally, I created a full-featured React web application to display technical indicators, market sentiments, financial headlines, live prices, and the bot's status. This project not only honed my skills in Python and React but also gave me valuable experience in data science, MongoDB, and Flask.",
+    "skills": [
+      "Python",
+      "Oanda API",
+      "Multi-threading",
+      "Web Scraping",
+      "MongoDB",
+      "React",
+      "Flask",
+      "Data Science",
+      "Jupyter Notebooks",
+      "Pandas"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "React.js Multi-Vendor Ecommerce Platform",
+    "imageSrc": "projects/ecommerce_website.png",
+    "description": "I designed and developed a complete multi-vendor ecommerce platform from scratch, focusing on creating a scalable and user-friendly online marketplace. Using React.js, Redux, Hooks, and Tailwind CSS, I built an intuitive front-end interface while leveraging Node.js and Express.js to create a secure and efficient backend. I integrated MongoDB for data storage and Socket.io for real-time chat functionality between users, vendors, and admins. Additionally, I implemented advanced features such as payment integration with Stripe, image uploads to Cloudinary, and a responsive design for seamless usage across all devices. This project challenged me to master full-stack development while focusing on building a professional, production-ready solution.",
+    "skills": [
+      "React.js",
+      "Redux",
+      "Hooks",
+      "Node.js",
+      "Express.js",
+      "Tailwind CSS",
+      "MongoDB",
+      "Socket.io",
+      "JWT",
+      "Axios",
+      "Stripe",
+      "Cloudinary"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Deploying Multiple LLM Agents to Work Together",
+    "imageSrc": "projects/LLM_agent.png",
+    "description": "I built an AI system deploying multiple Large Language Model (LLM) agents to work collaboratively on complex tasks. Using Python and the ChatGPT API, I utilized AutoGen to enable these agents to communicate and coordinate effectively. To make this system user-friendly, I developed an optional front-end interface using Streamlit. The project also involved deploying the system on Google Cloud and integrating a payment gateway using Stripe to monetize the solution. This project gave me a deep understanding of AI agents, API integration, and cloud deployment while solidifying my skills in Python and web application development.",
+    "skills": [
+      "Python",
+      "ChatGPT API",
+      "AutoGen",
+      "Streamlit",
+      "Google Cloud",
+      "Stripe"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
